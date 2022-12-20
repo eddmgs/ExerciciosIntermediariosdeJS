@@ -1,4 +1,4 @@
-<h1 align="center">ExerciciosIntermediariossDeJavaScript</h1> 
+<h1 align="center">ExerciciosIntermediariosDeJavaScript</h1> 
 <p align="center">Módulo de exercícios intermediarios de Javascript </p> <br>
 
 ## Exercício número 1   <br>
